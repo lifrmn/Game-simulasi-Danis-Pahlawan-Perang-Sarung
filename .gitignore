@@ -1,29 +1,7 @@
-# Unity generated folders
-Library/
-Temp/
-Obj/
-Build/
-Builds/
-Logs/
-UserSettings/
-
-# Unity auto-generated
-*.csproj
-*.unityproj
-*.sln
-*.suo
-*.tmp
-*.user
-*.userprefs
-*.pidb
-*.booproj
-*.svd
-*.pdb
-*.opendb
-*.VC.db
-
-# Asset meta data should only be ignored when the assets to which they belong are also being ignored.
-!/[Aa]ssets/**/*.meta
+# Files exceeding GitHub's 100MB limit
+Library/PackageCache/com.unity.burst@59eb6f11d242/.Runtime/libburst-llvm-18.dylib
+Library/PackageCache/com.unity.burst@59eb6f11d242/.Runtime/libburst-llvm-19.dylib
+Library/PackageCache/com.unity.toolchain.win-x86_64-linux-x86_64@426618737602/data~/payload.tar.7z
 
 # OS generated
 .DS_Store
@@ -33,6 +11,3 @@ UserSettings/
 .Trashes
 ehthumbs.db
 Thumbs.db
-
-# Crashlytics
-crashlytics-build.properties
